@@ -56,6 +56,8 @@ github "ruby",        "8.1.7"
 github "stdlib",      "4.2.1", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",        "1.0.0"
 github "xquartz",     "1.2.1"
+github "java",        "1.6.0"
+github "onepassword", "1.1.5"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
